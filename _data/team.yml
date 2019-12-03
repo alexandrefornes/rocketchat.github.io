@@ -272,3 +272,12 @@
   username: rogerio.saboia
   photo: yes
   country: Brazil
+
+- name: Alexandre Fornes
+  role: Head os Sales - Emerging Countries 
+  github_username: alexandrefornes75
+  # email: alexandre.fornes@rocket.chat
+  department:Sales
+  username: alexandre.fornes
+  photo: yes
+  country: Brazil
